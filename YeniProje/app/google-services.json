@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069575096610",
+    "project_id": "aradiginiz-ev",
+    "storage_bucket": "aradiginiz-ev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069575096610:android:025624b8bdc951ddf1bd7b",
+        "android_client_info": {
+          "package_name": "com.merveakin.yeniproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069575096610-jb8495djhgico09d70f89gmuiogtsajn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqo0mmVvanbRto3z-28t853loCsJDsvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069575096610-jb8495djhgico09d70f89gmuiogtsajn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
